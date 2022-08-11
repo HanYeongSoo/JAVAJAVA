@@ -1,0 +1,6 @@
+diff a/src/main/java/ch6/Test.java b/src/main/java/ch6/Test.java	(rejected hunks)
+@@ -0,0 +1,4 @@
++package ch6;
++
++public class Test {
++}
